@@ -1,0 +1,127 @@
+"Disease","Disease Code","Year","Year Code","Sex","Sex Code","Case Count"
+"Cholera",10470,2016,2016,"Female",1,8
+"Cholera",10470,2016,2016,"Male",2,7
+"Cholera",10470,2016,2016,"Unknown",99,0
+"Cholera",10470,2017,2017,"Female",1,3
+"Cholera",10470,2017,2017,"Male",2,7
+"Cholera",10470,2017,2017,"Unknown",99,0
+"Cholera",10470,2018,2018,"Female",1,5
+"Cholera",10470,2018,2018,"Male",2,9
+"Cholera",10470,2018,2018,"Unknown",99,0
+"Cholera",10470,2019,2019,"Female",1,6
+"Cholera",10470,2019,2019,"Male",2,7
+"Cholera",10470,2019,2019,"Unknown",99,1
+"Cholera",10470,2020,2020,"Female",1,0
+"Cholera",10470,2020,2020,"Male",2,1
+"Cholera",10470,2020,2020,"Unknown",99,0
+"Cholera",10470,2021,2021,"Female",1,0
+"Cholera",10470,2021,2021,"Male",2,5
+"Cholera",10470,2021,2021,"Unknown",99,0
+"Cholera",10470,2022,2022,"Female",1,8
+"Cholera",10470,2022,2022,"Male",2,4
+"Cholera",10470,2022,2022,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2016,2016,"Female",1,2
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2016,2016,"Male",2,4
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2016,2016,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2017,2017,"Female",1,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2017,2017,"Male",2,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2017,2017,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2018,2018,"Female",1,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2018,2018,"Male",2,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2018,2018,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2019,2019,"Female",1,2
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2019,2019,"Male",2,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2019,2019,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2020,2020,"Female",1,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2020,2020,"Male",2,2
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2020,2020,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2021,2021,"Female",1,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2021,2021,"Male",2,1
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2021,2021,"Unknown",99,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2022,2022,"Female",1,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2022,2022,"Male",2,0
+"Hantavirus infection, non-hantavirus pulmonary syndrome",11610,2022,2022,"Unknown",99,0
+"Hantavirus pulmonary syndrome",11590,2016,2016,"Female",1,13
+"Hantavirus pulmonary syndrome",11590,2016,2016,"Male",2,18
+"Hantavirus pulmonary syndrome",11590,2016,2016,"Unknown",99,0
+"Hantavirus pulmonary syndrome",11590,2017,2017,"Female",1,14
+"Hantavirus pulmonary syndrome",11590,2017,2017,"Male",2,19
+"Hantavirus pulmonary syndrome",11590,2017,2017,"Unknown",99,0
+"Hantavirus pulmonary syndrome",11590,2018,2018,"Female",1,10
+"Hantavirus pulmonary syndrome",11590,2018,2018,"Male",2,8
+"Hantavirus pulmonary syndrome",11590,2018,2018,"Unknown",99,0
+"Hantavirus pulmonary syndrome",11590,2019,2019,"Female",1,9
+"Hantavirus pulmonary syndrome",11590,2019,2019,"Male",2,9
+"Hantavirus pulmonary syndrome",11590,2019,2019,"Unknown",99,0
+"Hantavirus pulmonary syndrome",11590,2020,2020,"Female",1,5
+"Hantavirus pulmonary syndrome",11590,2020,2020,"Male",2,7
+"Hantavirus pulmonary syndrome",11590,2020,2020,"Unknown",99,2
+"Hantavirus pulmonary syndrome",11590,2021,2021,"Female",1,4
+"Hantavirus pulmonary syndrome",11590,2021,2021,"Male",2,10
+"Hantavirus pulmonary syndrome",11590,2021,2021,"Unknown",99,0
+"Hantavirus pulmonary syndrome",11590,2022,2022,"Female",1,5
+"Hantavirus pulmonary syndrome",11590,2022,2022,"Male",2,6
+"Hantavirus pulmonary syndrome",11590,2022,2022,"Unknown",99,0
+"Measles, Total",10140,2016,2016,"Female",1,24
+"Measles, Total",10140,2016,2016,"Male",2,61
+"Measles, Total",10140,2016,2016,"Unknown",99,0
+"Measles, Total",10140,2017,2017,"Female",1,52
+"Measles, Total",10140,2017,2017,"Male",2,66
+"Measles, Total",10140,2017,2017,"Unknown",99,2
+"Measles, Total",10140,2018,2018,"Female",1,182
+"Measles, Total",10140,2018,2018,"Male",2,193
+"Measles, Total",10140,2018,2018,"Unknown",99,0
+"Measles, Total",10140,2019,2019,"Female",1,538
+"Measles, Total",10140,2019,2019,"Male",2,737
+"Measles, Total",10140,2019,2019,"Unknown",99,0
+"Measles, Total",10140,2020,2020,"Female",1,5
+"Measles, Total",10140,2020,2020,"Male",2,7
+"Measles, Total",10140,2020,2020,"Unknown",99,0
+"Measles, Total",10140,2021,2021,"Female",1,21
+"Measles, Total",10140,2021,2021,"Male",2,26
+"Measles, Total",10140,2021,2021,"Unknown",99,1
+"Measles, Total",10140,2022,2022,"Female",1,56
+"Measles, Total",10140,2022,2022,"Male",2,65
+"Measles, Total",10140,2022,2022,"Unknown",99,0
+"Tularemia",10230,2016,2016,"Female",1,76
+"Tularemia",10230,2016,2016,"Male",2,153
+"Tularemia",10230,2016,2016,"Unknown",99,1
+"Tularemia",10230,2017,2017,"Female",1,94
+"Tularemia",10230,2017,2017,"Male",2,145
+"Tularemia",10230,2017,2017,"Unknown",99,0
+"Tularemia",10230,2018,2018,"Female",1,80
+"Tularemia",10230,2018,2018,"Male",2,149
+"Tularemia",10230,2018,2018,"Unknown",99,0
+"Tularemia",10230,2019,2019,"Female",1,96
+"Tularemia",10230,2019,2019,"Male",2,175
+"Tularemia",10230,2019,2019,"Unknown",99,3
+"Tularemia",10230,2020,2020,"Female",1,56
+"Tularemia",10230,2020,2020,"Male",2,92
+"Tularemia",10230,2020,2020,"Unknown",99,2
+"Tularemia",10230,2021,2021,"Female",1,78
+"Tularemia",10230,2021,2021,"Male",2,82
+"Tularemia",10230,2021,2021,"Unknown",99,2
+"Tularemia",10230,2022,2022,"Female",1,64
+"Tularemia",10230,2022,2022,"Male",2,100
+"Tularemia",10230,2022,2022,"Unknown",99,3
+"Viral hemorrhagic fevers",11647,2016,2016,"Female",1,0
+"Viral hemorrhagic fevers",11647,2016,2016,"Male",2,0
+"Viral hemorrhagic fevers",11647,2016,2016,"Unknown",99,0
+"Viral hemorrhagic fevers",11647,2017,2017,"Female",1,0
+"Viral hemorrhagic fevers",11647,2017,2017,"Male",2,0
+"Viral hemorrhagic fevers",11647,2017,2017,"Unknown",99,0
+"Viral hemorrhagic fevers",11647,2018,2018,"Female",1,0
+"Viral hemorrhagic fevers",11647,2018,2018,"Male",2,0
+"Viral hemorrhagic fevers",11647,2018,2018,"Unknown",99,0
+"Viral hemorrhagic fevers",11647,2019,2019,"Female",1,0
+"Viral hemorrhagic fevers",11647,2019,2019,"Male",2,0
+"Viral hemorrhagic fevers",11647,2019,2019,"Unknown",99,0
+"Viral hemorrhagic fevers",11647,2020,2020,"Female",1,0
+"Viral hemorrhagic fevers",11647,2020,2020,"Male",2,0
+"Viral hemorrhagic fevers",11647,2020,2020,"Unknown",99,0
+"Viral hemorrhagic fevers",11647,2021,2021,"Female",1,0
+"Viral hemorrhagic fevers",11647,2021,2021,"Male",2,0
+"Viral hemorrhagic fevers",11647,2021,2021,"Unknown",99,0
+"Viral hemorrhagic fevers",11647,2022,2022,"Female",1,0
+"Viral hemorrhagic fevers",11647,2022,2022,"Male",2,0
+"Viral hemorrhagic fevers",11647,2022,2022,"Unknown",99,0
